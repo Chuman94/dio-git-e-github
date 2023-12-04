@@ -52,3 +52,9 @@ Renaming a branch will:
 - Return a "Moved Permanently" response in API requests for the old branch name
 
 Learn more about [renaming a branch](https://docs.github.com/github/administering-a-repository/renaming-a-branch).
+
+
+
+aula 01 / Resumo
+
+aula 02 / Resumo
